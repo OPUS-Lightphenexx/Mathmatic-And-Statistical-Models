@@ -1,3 +1,5 @@
+#这个是我从ChatGPT那里偷来的哈哈哈
+
 import numpy as np
 
 def parabolic_approximation(f, a, b, n):
