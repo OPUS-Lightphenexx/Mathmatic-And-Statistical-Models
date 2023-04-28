@@ -28,3 +28,7 @@ print(solve)
 #查看x和y的值
 for vary in Problem_Setting.variables():
     print(vary,':',vary.value())
+
+#选课策略线性规划建模
+
+
